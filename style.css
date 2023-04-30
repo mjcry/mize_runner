@@ -1,0 +1,25 @@
+/* Define the CSS styles for the player, the end goal, and the score */
+.player {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.end-goal {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    position: absolute;
+    top: 180px;
+    left: 380px;
+}
+.score {
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
